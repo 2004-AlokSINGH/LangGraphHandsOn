@@ -1,0 +1,9 @@
+# to open env - conda activate " full path from c drive "
+langchain
+langgraph
+langchain-core
+langchain-community
+langchain_huggingface
+transformers
+torch
+langchain_groq
