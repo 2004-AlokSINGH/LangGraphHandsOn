@@ -19,7 +19,7 @@ model = ChatGroq(
     model="llama-3.3-70b-versatile",
     groq_api_key=groq_api_key,
     temperature=0,
-    max_tokens=500
+    max_tokens=500 #can tune token as per need
 )
 
 
